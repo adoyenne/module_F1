@@ -6,7 +6,7 @@ A simple weather application built with React. View current conditions and a 5-d
 
 Clone the Repository
 
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/adoyenne/weather-app.git
    cd weather-app
 
 Install Dependencies
